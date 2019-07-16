@@ -4,12 +4,12 @@
   <servers>
     <server>
       <username>admin</username>
-      <password>Jfrog@08</password>
+      <password>AP2fbz5Rb3DxXmcNMiT2BcZYoNB</password>
       <id>central</id>
     </server>
     <server>
       <username>admin</username>
-      <password>Jfrog@08</password>
+      <password>AP2fbz5Rb3DxXmcNMiT2BcZYoNB</password>
       <id>snapshots</id>
     </server>
   </servers>

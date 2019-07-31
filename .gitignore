@@ -3,6 +3,5 @@
 src/.DS_Store
 .project
 .gitignore.swp
-/target/
 .settings/
 .classpath

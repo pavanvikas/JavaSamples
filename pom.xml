@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>datev.test.assembly-plugin</groupId>
 	<artifactId>jfrog-issue</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>${test.version}</version>
 	
 	<name>JFrog Issue</name>
 	

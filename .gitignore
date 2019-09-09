@@ -1,0 +1,8 @@
+
+.DS_Store
+src/.DS_Store
+.project
+.gitignore.swp
+.settings/
+.classpath
+*.jar

@@ -5,7 +5,7 @@
   <groupId>sample.project</groupId>
   <artifactId>calculator</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>tgz</packaging>
+  <packaging>pom</packaging>
 
   <name>maven</name>
   <url>http://maven.apache.org</url>

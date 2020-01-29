@@ -5,7 +5,7 @@
   <groupId>sample.project</groupId>
   <artifactId>calculator</artifactId>
   <version>0.0.3-SNAPSHOT</version>
-  <packaging>pom</packaging>
+  <packaging>jar</packaging>
 
   <name>maven</name>
   <url>http://maven.apache.org</url>

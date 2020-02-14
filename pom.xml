@@ -22,8 +22,8 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>com.google.jimfs</groupId>
-      <artifactId>jimfs</artifactId>
+      <groupId>org.apache.geronimo.specs</groupId>
+      <artifactId>specs</artifactId>
       <version>1.1</version>
       <scope>test</scope>
     </dependency>
